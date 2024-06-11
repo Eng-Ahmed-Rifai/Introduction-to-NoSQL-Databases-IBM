@@ -64,4 +64,5 @@ The course is structured into 5 comprehensive modules:
 
 **Skills Gained:**  `Cloud Databases` `MongoDB` `Cassandra` `NoSQL` `Cloudant` 
 
+![image](https://github.com/Eng-Ahmed-Rifai/Introduction-to-NoSQL-Databases-IBM/assets/110114267/0d475e9f-8282-4972-bc13-4bb77256c36b)
 
